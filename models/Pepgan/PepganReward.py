@@ -79,7 +79,7 @@ class Reward(object):
         rewards = []
         lambda_p=0.5
         
-        criticmod=loadRNN("/Users/andrejstucs/Documents/Results/16/Descriminator_hawk/GRURNN_AMP","AMPcls-GRU256-64")
+        criticmod=loadRNN("/Users/andrejstucs/Documents/Results/16/PepGAN/analyzer","AMPcls-GRU256-64")
         
         for i in range(self.rollout_num):
             for given_num in range(1, self.model.sequence_length // self.model.step_size):
