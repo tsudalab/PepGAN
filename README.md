@@ -10,7 +10,7 @@ PepGAN employs part of the benchmarking platform Texygen for more information se
 
 https://github.com/geek-ai/Texygen
 
-# To Run
+# Usage
 
 * To run PepGAN use following command:
   
