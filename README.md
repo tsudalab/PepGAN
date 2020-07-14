@@ -1,5 +1,7 @@
 # PepGAN
 
+PepGAN is a generative adversarial network for peptide sequence generation
+
 * To use PepGAN for antimicrobial peptide (AMP) generation use following command:
 
   python main.py -g pepgan -t real -d data/output_amp.txt
