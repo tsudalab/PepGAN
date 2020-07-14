@@ -16,7 +16,7 @@ https://github.com/geek-ai/Texygen
 
   python main.py -g pepgan -t real -d data/output_amp.txt
   
-  `code(python main.py -g pepgan -t real -d data/output_amp.txt)`
+  `python main.py -g pepgan -t real -d data/output_amp.txt`
 
 * To run PepGAN on your own sequences you have to train activity predictor first using own data (positive and negative samples) via following command:
 
