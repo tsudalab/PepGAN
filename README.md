@@ -10,10 +10,10 @@
 
   Afterwards link to the trained model should be added into the PepganReward.py file <br /><br /><br />
 
-Details about PepGAN methodology can be found here
+ Details about PepGAN methodology can be found here
 
-https://chemrxiv.org/articles/Generating_Ampicillin-Level_Antimicrobial_Peptides_with_Activity-Aware_Generative_Adversarial_Networks/12116136
+ https://chemrxiv.org/articles/Generating_Ampicillin-Level_Antimicrobial_Peptides_with_Activity-Aware_Generative_Adversarial_Networks/12116136
 
-PepGAN employs part of the benchmarking platform Texygen for more details see
+ PepGAN employs part of the benchmarking platform Texygen for more details see
 
-https://github.com/geek-ai/Texygen
+ https://github.com/geek-ai/Texygen
