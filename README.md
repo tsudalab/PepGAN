@@ -19,6 +19,11 @@ https://github.com/geek-ai/Texygen
 * To run PepGAN on your own sequences you have to train activity predictor first using own data (positive and negative samples) via following command:
 
   `python classifiertrain.py`
+  
+  ```
+  cd activity_predictor
+  python classifiertrain.py
+  ```
 
   Afterwards link to the trained model should be added into the PepganReward.py file <br /><br />
 
