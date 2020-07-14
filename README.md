@@ -8,7 +8,7 @@
 
   python classifiertrain.py
 
-Than link to the trained model should be added into the PepganReward.py file
+  Afterwards link to the trained model should be added into the PepganReward.py file
 
 Details about PepGAN methodology can be found here
 
