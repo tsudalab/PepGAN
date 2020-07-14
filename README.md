@@ -1,6 +1,6 @@
 # PepGAN
 
-PepGAN is a generative adversarial network for peptide sequence generation which incorporates knowledge about negative samples via classifier network (activity predictor).
+PepGAN is a generative adversarial network for peptide sequence generation which incorporates knowledge about negative samples via activity predictor.
 
 Details about PepGAN methodology can be found here
 
@@ -16,7 +16,7 @@ https://github.com/geek-ai/Texygen
 
   python main.py -g pepgan -t real -d data/output_amp.txt
 
-* To run PepGAN on own sequences you have to train activity predictor first using own data via following command:
+* To run PepGAN on your own sequences you have to train activity predictor first using own data via following command:
 
   python classifiertrain.py
 
