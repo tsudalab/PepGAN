@@ -8,7 +8,9 @@ To run PepGAN on own sequences you have to train activity predictor first using 
 
 python classifiertrain.py
 
-\\
+Details about PepGAN methodology can be found here
+
+https://chemrxiv.org/articles/Generating_Ampicillin-Level_Antimicrobial_Peptides_with_Activity-Aware_Generative_Adversarial_Networks/12116136
 
 PepGAN employs part of the benchmarking platform Texygen for more details see
 
