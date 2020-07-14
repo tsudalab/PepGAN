@@ -1,6 +1,6 @@
 # PepGAN
 
-PepGAN is a generative adversarial network for peptide sequence generation.
+PepGAN is a generative adversarial network for peptide sequence generation which incorporates knowledge about negative samples via classifier network (activity predictor).
 
 Details about PepGAN methodology can be found here
 
