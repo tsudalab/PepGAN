@@ -1,6 +1,6 @@
 # PepGAN
 
-To run PepGAN on antimicrobial peptides use following command:
+To use PepGAN for antimicrobial peptide (AMP) generation use following command:
 
 python main.py -g pepgan -t real -d data/output_amp.txt
 
@@ -8,7 +8,7 @@ To run PepGAN on own sequences you have to train activity predictor first using 
 
 python classifiertrain.py
 
-
+\\
 
 PepGAN employs part of the benchmarking platform Texygen for more details see
 
