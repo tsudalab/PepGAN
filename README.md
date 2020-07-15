@@ -12,7 +12,7 @@ https://github.com/geek-ai/Texygen
 
 # Usage
 
-* To run PepGAN use the following command
+* PepGAN demo run can be made using following command
   
   ```
   python main.py -g pepgan -t real -d data/amp.txt
