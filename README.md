@@ -1,6 +1,6 @@
 # PepGAN
 
-PepGAN is activity aware generative adversarial network for peptide sequence generation.
+PepGAN is activity-aware generative adversarial network for peptide sequence generation.
 
 Details about PepGAN methodology can be found here
 
