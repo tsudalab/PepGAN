@@ -28,5 +28,5 @@ https://github.com/geek-ai/Texygen
   Then link to the trained model should be added into the `../PepGAN/models/Pepgan/PepganReward.py` file. Afterwards when running PepGAN link to the positive dataset which will be used for minimax game also should be provided
 
   ```
-  python main.py -g pepgan -t real -d <your dataset location>
+  python main.py -g pepgan -t real -d <positive dataset location>
   ```
