@@ -18,7 +18,7 @@ https://github.com/geek-ai/Texygen
   python main.py -g pepgan -t real -d data/amp.txt
   ```
 
-* To run PepGAN on own sequences first you have to train activity predictor using own provided positive and negative samples. Links to the locations of both sets should be added into the `../PepGAN/activity_predictor/classifiertrain.py` file. Then activity predictor can be train via
+* To run PepGAN on own sequences first you have to train activity predictor using own provided positive and negative samples. Links to the locations of both sets should be added into the `../PepGAN/activity_predictor/classifiertrain.py` file. Then activity predictor can be trained
   
   ```
   python classifiertrain.py
