@@ -24,7 +24,7 @@ https://github.com/geek-ai/Texygen
   python classifiertrain.py
   ```
 
-  After that link to the trained model should be added into the `../PepGAN/models/Pepgan/PepganReward.py` file. Afterwards when running PepGAN link to the positive dataset which will be used for discriminator training also must be provided
+  After that link to the trained model (.json and .h5 files) should be added into the `../PepGAN/models/Pepgan/PepganReward.py` file. Afterwards when running PepGAN link to the positive dataset which will be used for discriminator training also must be provided
 
   ```
   python main.py -g pepgan -t real -d <positive dataset location>
