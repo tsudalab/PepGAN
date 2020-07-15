@@ -25,5 +25,8 @@ https://github.com/geek-ai/Texygen
   python classifiertrain.py
   ```
 
-  Afterwards link to the trained model should be added into the `../PepGAN/models/Pepgan/PepganReward.py` file.<br /><br />
+Afterwards link to the trained model should be added into the `../PepGAN/models/Pepgan/PepganReward.py` file. Afterwards when running PepGAN link to the dataset should be also provided <br /><br />
 
+  ```
+  python main.py -g pepgan -t real -d <your data base location>
+  ```
