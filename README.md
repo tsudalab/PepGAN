@@ -25,7 +25,7 @@ https://github.com/geek-ai/Texygen
   python classifiertrain.py
   ```
 
-  Then link to the trained model should be added into the `../PepGAN/models/Pepgan/PepganReward.py` file. Afterwards when running PepGAN link to the dataset          should be also provided
+  Then link to the trained model should be added into the `../PepGAN/models/Pepgan/PepganReward.py` file. Afterwards when running PepGAN link to dataset which will  be used for minimax game should be also provided
 
   ```
   python main.py -g pepgan -t real -d <your data base location>
